@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSSongStatsDumper", "BSSongStatsDumper\BSSongStatsDumper.csproj", "{DCFA24B2-E71E-449E-915A-0241D0A0CB50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFA24B2-E71E-449E-915A-0241D0A0CB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFA24B2-E71E-449E-915A-0241D0A0CB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFA24B2-E71E-449E-915A-0241D0A0CB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFA24B2-E71E-449E-915A-0241D0A0CB50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {726D4C13-0F84-486B-929F-E4AD876D2951}
+	EndGlobalSection
+EndGlobal
